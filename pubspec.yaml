@@ -1,0 +1,71 @@
+name: rooster365
+description: Roosterplanning gedaan in minuten, niet in uren!
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+
+  carousel_slider: ^4.0.0
+  easy_dynamic_theme: ^2.2.0
+  flutter:
+    sdk: flutter
+#  flutter_image_slideshow: ^0.1.1
+#  flutter_image_slider: ^0.0.2
+  flutter_riverpod: ^0.14.0+3
+  lint: ^1.6.0
+  photo_view: ^0.12.0
+  url_strategy: ^0.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  fonts:
+
+    - family: Lobster
+      fonts:
+        - asset: fonts/Lobster-Regular.ttf
+
+    - family: OpenSans
+      fonts:
+        - asset: fonts/OpenSans-Regular.ttf
+        - asset: fonts/OpenSans-Bold.ttf
+        - asset: fonts/OpenSans-Italic.ttf
+          style: italic
+
+#    - family: Montserrat
+#      fonts:
+#        - asset: fonts/Montserrat-Regular.ttf
+#
+#    - family: Electrolize
+#      fonts:
+#        - asset: fonts/Electrolize-Regular.ttf
+#
+#    - family: Merdeka
+#      fonts:
+#        - asset: fonts/AgustusMerdeka.otf
+#
+#    - family: BoldaceBrush
+#      fonts:
+#        - asset: fonts/BoldaceBrush.otf
+#
+#    - family: Corona
+#      fonts:
+#        - asset: fonts/Corona.ttf
+#
+#    - family: Alien
+#      fonts:
+#        - asset: fonts/AlienAndroidItalic.ttf
+
+  assets:
+    - images/
+    - images/slider/
