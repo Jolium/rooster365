@@ -25,8 +25,8 @@ const RESOURCES = {
 "icons/icon365-192-mask.png": "b7543aa1ba5a43e3b0a87d7873c54a96",
 "icons/logo365_256.png": "d290e89bced4feff7417081a00418083",
 "icons/logo365_512.png": "3542f1873da258bfa268e03cc5719456",
-"index.html": "b0ed9dc1f898582abb015f26cc748a50",
-"/": "b0ed9dc1f898582abb015f26cc748a50",
+"index.html": "67eec224802c89b56ccbb2af61b5d14e",
+"/": "67eec224802c89b56ccbb2af61b5d14e",
 "main.dart.js": "9c2dfe7e6f618ba131a021f0de389aa5",
 "manifest.json": "4e3f11ace60e1e1ca47ede8b5f74a340",
 "version.json": "bcc756adca5296d1d6a75ef467a64b2a"

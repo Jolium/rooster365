@@ -2,4 +2,4 @@
 
 Roosterplanning gedaan in minuten, niet in uren!
 
-[Rooster 365](https://rooster365.nl)
+[Rooster365.nl](https://rooster365.nl)
